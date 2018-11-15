@@ -1,0 +1,25 @@
+#center{
+    text-align: center;
+}
+
+#address{
+    width:300px;
+}
+
+#directionsBody{
+    background-color: rgb(0, 153, 255);
+}
+
+footer{
+text-align: center;
+}
+
+.container{
+    color: white;
+}
+
+#directionsPic{
+    margin-left:350px;
+    height:200px;
+    width:400px;
+}
