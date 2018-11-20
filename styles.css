@@ -1,13 +1,14 @@
 #center{
     text-align: center;
+    background-color:black;
 }
 
 #address{
     width:300px;
 }
 
-#directionsBody{
-    background-color: rgb(0, 153, 255);
+Body{
+    background-color: black;
 }
 
 footer{
@@ -15,7 +16,7 @@ text-align: center;
 }
 
 .container{
-    color: white;
+    color: red;
 }
 
 #directionsPic{
@@ -24,7 +25,36 @@ text-align: center;
     width:400px;
 }
 
-#jumboPic{
+/* #jumboPic{
     height:400px ;
     width:500px;
+   
+} */
+
+#directions-list{
+    color:white;
+}
+
+.jumbotron{
+    background-color: blue;
+     background-image: url(./images/map-pic.jpg);
+     background-size:cover;
+     height:400px;
+}
+
+.container{
+    background-color:black;
+}
+
+#firstAddress{
+    background:blue;
+    font-family: bold;
+    color:white;
+}
+
+
+#secondAddress{
+    background:blue;
+    font-family: bold;
+    color:white;
 }
